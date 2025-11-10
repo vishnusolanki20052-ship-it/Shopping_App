@@ -3,7 +3,7 @@
 [![Stars](https://img.shields.io/github/stars/iemafzalhassan/online_shop)](https://github.com/solankivishnu63/Shopping_App)
 ![Forks](https://img.shields.io/github/forks/iemafzalhassan/online_shop)
 ![GitHub last commit](https://img.shields.io/github/last-commit/iemafzalhassan/easyshop?color=red)
-[![GitHub Profile](https://img.shields.io/badge/GitHub-iemafzalhassan-blue?logo=github&style=flat)](https://github.com/iemafzalhassan)
+[![GitHub Profile](https://img.shields.io/badge/GitHub-iemafzalhassan-blue?logo=github&style=flat)](https://github.com/solankivishnu63)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 <p align="center">
@@ -113,6 +113,7 @@ All this while ensuring:
 Good luck for the hackathon
 
 Happy Learning :)
+
 
 
 

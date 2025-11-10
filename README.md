@@ -1,6 +1,6 @@
 # Online Shop 🛍️ for Practice
 
-[![Stars]((https://github.com/vishnusolanki20052-ship-it/Shopping_App))](https://github.com/vishnusolanki20052-ship-it/Shopping_App)
+[![Stars]((https://img.sheilds.io/github/stars/vishnusolanki20052-ship-it/Shopping_App))](https://github.com/vishnusolanki20052-ship-it/Shopping_App)
 ![Forks](https://img.shields.io/github/forks/iemafzalhassan/online_shop)
 ![GitHub last commit](https://img.shields.io/github/last-commit/iemafzalhassan/easyshop?color=red)
 [![GitHub Profile](https://img.shields.io/badge/GitHub-iemafzalhassan-blue?logo=github&style=flat)](https://github.com/iemafzalhassan)
@@ -113,5 +113,6 @@ All this while ensuring:
 Good luck for the hackathon
 
 Happy Learning :)
+
 
 

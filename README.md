@@ -1,4 +1,4 @@
-# Online Shop 🛍️ for Hackathon Phase 1
+# Online Shop 🛍️ for Practice
 
 [![Stars](https://img.shields.io/github/stars/iemafzalhassan/online_shop)](https://github.com/iemafzalhassan/online_shop)
 ![Forks](https://img.shields.io/github/forks/iemafzalhassan/online_shop)
@@ -8,7 +8,7 @@
 
 <p align="center">
 
-Welcome to the **Online Shop** project – our hackathon entry for Phase 1! This repository contains a fully functional e-commerce application built to demonstrate foundational DevOps skills in three key areas:
+Welcome to the **Online Shop** project – our Practice Phase 1 This repository contains a fully functional e-commerce application built to demonstrate foundational DevOps skills in three key areas:
 
 - **Git & GitHub**
 - **Linux**
@@ -113,3 +113,4 @@ All this while ensuring:
 Good luck for the hackathon
 
 Happy Learning :)
+
